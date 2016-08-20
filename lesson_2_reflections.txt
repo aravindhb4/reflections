@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A '.git' file is created and a tracking system is enabled where we can track the history of the files inside the git initialized folder.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It acts as a buffer so that we can group/choose files before making a commit.
