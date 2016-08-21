@@ -5,3 +5,15 @@ A '.git' file is created and a tracking system is enabled where we can track the
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It acts as a buffer so that we can group/choose files before making a commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By using staging area we can combine multiple file changes that are logically related into a single commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches can be helpful in experimenting the current code. It also keeps the master file intact that we no need to worry about making irrevesible mistakes.
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams helps to view the commits as a whole and see if there are any unreachable commits on the way.
